@@ -1,4 +1,4 @@
-G1B6_HTML&CSS_GradedProject1
+**G1B6_HTML&CSS_GradedProject1**
 
 Project Details:
 
